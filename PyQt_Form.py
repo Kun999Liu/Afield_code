@@ -522,3 +522,5 @@ if __name__ == "__main__":
     window = CalibrationApp()
     window.show()
     sys.exit(app.exec_())
+    ##测试 git
+    '''提交注释信息'''
