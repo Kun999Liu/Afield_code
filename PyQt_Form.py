@@ -524,3 +524,6 @@ if __name__ == "__main__":
     sys.exit(app.exec_())
     ##测试 git
     '''提交注释信息'''
+    '''mamba 包管理器'''
+    '''测试mamba 包管理器'''
+
